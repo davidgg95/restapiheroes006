@@ -7,7 +7,7 @@ class DataBase {
   //  private _cadenaConexion: string =  
   //  `mongodb+srv://prueba:prueba@cluster0.viyli.mongodb.net/prueba?retryWrites=true&w=majority`
 private _cadenaConexion: string = 
-'mongodb+srv://david:david@cluster0.bzm7u.mongodb.net/practica3?retryWrites=true&w=majority'
+'mongodb+srv://heroes:heroes@cluster0.viyli.mongodb.net/test?retryWrites=true&w=majority'
     constructor(){
 
     }
